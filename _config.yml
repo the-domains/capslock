@@ -1,0 +1,28 @@
+name: capslock
+favicon: null
+layout_spectrum: 0.9711321713402867
+typography_spectrum: 0.5809131576679647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9320302603300661
+  lightness: 0.5181737686507404
+  saturation: 0.9195399112068117
+  rhythmicContrast: 0.18095391150563955
+purpose: []
